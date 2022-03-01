@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Patrick Earl of Marchmont, &amp;c., Lord High Chancellor to the Parliament of Scotland on Tuesday 29 October 1700.</title>
+            <author>Marchmont, Patrick Hume, Earl of, 1641-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04466</idno>
+            <idno type="STC">Wing M588</idno>
+            <idno type="STC">ESTC R180354</idno>
+            <idno type="EEBO-CITATION">53981548</idno>
+            <idno type="OCLC">ocm 53981548</idno>
+            <idno type="VID">180284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180284)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Patrick Earl of Marchmont, &amp;c., Lord High Chancellor to the Parliament of Scotland on Tuesday 29 October 1700.</title>
+                  <author>Marchmont, Patrick Hume, Earl of, 1641-1724.</author>
+               </titleStmt>
+               <extent>6 [i.e. 2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies.</term>
+               <term>Scotland --  Politics and government --  1689-1745 --  Sources.</term>
+               <term>Scotland --  History --  1689-1745 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="5" facs="tcp:180284:1"/>
+            <!-- PDF PAGE 27 -->
+            <head>The Speech of <hi>Patrick</hi> Earl of <hi>March<g ref="char:EOLhyphen"/>mont,</hi> &amp;c. Lord High Chancellor, to the <hi>Parliament</hi> of SCOTLAND,</head>
+            <opener>
+               <dateline>
+                  <date>On <hi>Tueſday</hi> 29. <hi>October</hi> 1700.</date>
+               </dateline>
+            </opener>
+            <salute>My Lords and Gentlemen,</salute>
+            <p>NOW We ſee the Eſtates of this Kingdom again met in Parliament, ſo ſoon as the Kings other weighty Affairs, and his abſence from <hi>Bri<g ref="char:EOLhyphen"/>tain</hi> could allow it; whereby all may be ſatisfied that the Suſpicions which have been vented, as if their Meeting would be delayed and put off, were altogether groundleſs.</p>
+            <p>His Majeſtie in his Letter to you when you laſt met, told you of His firm Reſolution to make it the chief deſign of His Reign to do every thing that may tend to the Advantage and Good of His Subjects, and the Commiſ<g ref="char:EOLhyphen"/>ſioners Grace acquainted you in that Meeting that he had full power and In<g ref="char:EOLhyphen"/>ſtructions for every thing that appeared neceſſary or convenient for the Good and Advantage of the Nation, as to Religion, Property, Liberty, Trade, and particularly what could be of moſt ſolid uſe to the <hi>African</hi> and <hi>Indian</hi> Company.</p>
+            <p>Since that time, His Majeſty by a Letter to His Privy Council, publiſhed by his Order, for the Satisfaction of His Good Subjects, has repeated the ſame Aſſurances which were formerly given you, and has expreſſed his good In<g ref="char:EOLhyphen"/>tentions towards this Kingdom.</p>
+            <p>Now again His Majeſty by His moſt Gracious Letter Read in your Audi<g ref="char:EOLhyphen"/>ence, is pleaſed fully and kindly to certifie you, that he continues firm in the ſame good Intentions, ſtill reckoning the Eaſe and Proſperity of His good Subjects to be His greateſt Honor and Happineſs.</p>
+            <p>Theſe ample and full Aſſurances which His Majeſty has in His Letter given you, are ſo diſtinctly expreſſed in it, and in the Diſcourſe the Commiſſioners Grace has had to you, that it were ſuperfluous to me to add much to what you have heard. Only I muſt much take notice, and <hi>I</hi> wiſh that you may do ſo too, of the large extent of His Majeſties good Intentions towards his Subjects of this Kingdom.</p>
+            <p>His Majeſtie is reſolved to give the Royal Aſſent to all Acts for the better eſtabliſhing the true Proteſtant Religion and the Presbyterian Government of the Church which we Enjoy. For the more effectual preventing the grouth of Popery, for the repreſſing of Vice and Immorali<g ref="char:EOLhyphen"/>ty, and Encouragement of Piety and Virtue, for the preſerving and ſecuring of perſonal Liberty, for the Regulating and Advancing of Trade, for making up the Loſſes, &amp; promoting the Concerns of the <hi>African</hi> and <hi>Indian</hi> Company, and for the ſetting forward and Improving of Manufactories.</p>
+            <p>By theſe ſeven Channels, His Majeſty is diſpoſed and ready to let out unto this Nation a Stream of moſt valuable Advantages, which cannot miſs (by the Bleſſing of GOD) to make it happy.</p>
+            <p>Yet leaſt theſe Heads might come ſhort of importing the extent of His Ma<g ref="char:EOLhyphen"/>jeſties good meaning, He is pleaſed to add, that generally he is readie to give
+<pb n="5" facs="tcp:180284:2"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:180284:3"/>
+               <!-- PDF PAGE 29 -->the Royal Aſſent to all other Laws for the further clearing and ſecuring Property and Civil Rights, for ſtrengthning and facilitating the Adminiſtrati<g ref="char:EOLhyphen"/>on of Juſtice, for reſtraining and puniſhing Crimes, and for ſetling the Peace and Quiet of the Kingdom, ſo that nothing ſhall be wanting upon His Ma<g ref="char:EOLhyphen"/>jeſties part to make his people both Happy and Contented; What more can we reaſonably Hope, what more can we reaſonably Wiſh.</p>
+            <p>Upon the other hand, all that His Majeſty demands of us, is that we will pro<g ref="char:EOLhyphen"/>vide proper &amp; competent Supplies for ſuch Forces as ſhal be neceſſary for the Kingdoms Security, and to maintain it in its preſent happy Settlement.</p>
+            <p>And here I muſt ſay, what leſs can reaſonably be demanded, what leſs can reaſonably be expected.</p>
+            <p>The many croſs Providences which the <hi>African</hi> and <hi>Indian</hi> Company has met with in the proſecution of its Deſigns, with the great Loſs both of Men and Trea<g ref="char:EOLhyphen"/>ſure, which has been the event of the Companies attempt, for ſettling a Colony in the Province of <hi>Darien,</hi> have much diſturbed and perplexed the minds of many, and it is too evident, that there are not wanting ſome who would raiſe and foment Jealouſies in well-meaning People of Our Soveraign the King, as if he were not enough concerned to protect and aſſiſt this Nation in what relates to its Trade.</p>
+            <p>I would in treat you to take heed how you harbour ſo bad a gueſt as Jealouſie is, it is apt to darken the Underſtanding, and to diſturb the motion of the Mind, it will create Fear where no Fear is, and no ground for it, I pray you beware of it.</p>
+            <p>This is undenvable, that the <hi>Scots</hi> Nation never had a King, whom it had better reaſon to truſt &amp; confide in, never had a Parliament which it had better reaſon to truſt and confide in; Seing it is ſo, we have all the reaſon in the World to do what is poſſible to us for maintaining a good Underſtanding betwixt this King and this Parliament, even as we wiſh the Proſperity and Peace of this Kingdom.</p>
+            <p>There is one thing which has made a difference of Opinion amongſt us, ſome would have an Act aſſerting the Right of the Company to the Colony, which it planted upon <hi>Darien.</hi> In this matter the King has been much ſtraitned, and has de<g ref="char:EOLhyphen"/>clared to you with regrate, that he cannot agree to the aſſerting a Right to that Colony, and that for invincible reaſons, which His Majeſty is pleaſed to commu<g ref="char:EOLhyphen"/>nicate to you.</p>
+            <p>That it would infallibly diſturb the general Peace of <hi>Chriſtendome,</hi> and bring in<g ref="char:EOLhyphen"/>evitably upon this Kingdom a heavy War, wherein we could expect no aſſiſtance. This is very evident, for the power of the <hi>Spaniſh</hi> Monarchy, and of thoſe concer<g ref="char:EOLhyphen"/>ned in the Support of it, would be united againſt us, and we in all appearance left to our own ſtrength, without expectation of any Aſſiſtants.</p>
+            <p>Beſides we are to conſider, that the Company has not now the Colony in Poſſeſſion to ſupport and maintain, but to recover by force of Arms, and we have good Reaſon, this Kingdom having ſo lately come off from a great and long War, to take notice in what Condition and Preparation the Na<g ref="char:EOLhyphen"/>tion is to engage in a new one, and what Aſſiſtance we may expect.</p>
+            <p>Theſe plain Reaſons, I do not doubt, will ſatisfie all theſe who are ſatisfiable, &amp; not too indifferent of keeping up a mutual Truſt and Confidence betwixt His Majeſtie and his People and Parliament.</p>
+            <p>
+               <label>My Lords and Gentlemen,</label>
+            </p>
+            <p>As you have great Aſſurances and Kind offers from your Soveraign at this time, whereby this Nation may be made very happy, its moſt important In<g ref="char:EOLhyphen"/>tereſts furder ſecured, its Peace preſerved, and its Trade advanced. Let not the humor or jealouſie of any who have acceſs to the doing Buſineſs in this Juncture, hinder or obſtruct ſo great a Bleſſing as we have in proſpect.</p>
+            <p>But ſeing our King is ſo ready to concur with us, let us not be backward or ſlow to concur with Him for the good of our Nation, that the people now living, and the poſterity which ſhal come after us, may have this Seſſion of Parliament in Veneration, and for a Pattern worthy to be regarded, and fit to be imitated.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
